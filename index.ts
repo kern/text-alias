@@ -1,0 +1,1 @@
+export type text = string
